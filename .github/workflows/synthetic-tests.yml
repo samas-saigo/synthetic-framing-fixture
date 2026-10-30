@@ -1,5 +1,3 @@
-# Review-only example. Suggested repository path after separate approval:
-# .github/workflows/synthetic-tests.yml
 name: Synthetic fixture tests
 
 on:
